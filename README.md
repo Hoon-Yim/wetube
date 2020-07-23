@@ -1,5 +1,5 @@
 # Express Practice
 
-- [] Routers
-- [] controllers
+- [x] Routers
+- [x] controllers
 - [] views
