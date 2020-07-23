@@ -1,5 +1,3 @@
-import { search } from "core-js/fn/symbol";
-
 // Global
 const HOME = "/",
   SEARCH = "/search",
